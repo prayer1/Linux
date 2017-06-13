@@ -1,3 +1,5 @@
+﻿Linux入门笔记（学习网站http://billie66.github.io/TLCL/book/index.html）
+
 第二部分 — 引言
 
 第二部分 — 学习 shell 开始探究命令行基本语言，包括命令组成结构， 文件系统浏览，编写命令行，查找命令帮助文档。
