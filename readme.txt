@@ -1,4 +1,4 @@
-﻿Linux入门笔记 （学习网站http://billie66.github.io/TLCL/book/index.html）
+﻿Linux入门笔记 学习网站http://billie66.github.io/TLCL/book/index.html
 
 第二部分 — 引言
 
